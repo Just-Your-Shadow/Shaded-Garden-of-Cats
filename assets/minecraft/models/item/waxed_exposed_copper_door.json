@@ -1,0 +1,8 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+    "parent": "item/waxed_copper_door",
+    "textures": {
+		"3": "block/exposed_copper_door_top",
+		"4": "block/exposed_copper_door_bottom"
+    }
+}

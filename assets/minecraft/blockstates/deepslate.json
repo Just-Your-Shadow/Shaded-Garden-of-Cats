@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [{
+				"model": "block/deepslate",
+				"weight": 2000
+			},
+			{
+				"model": "block/deepslate2",
+				"weight": 100
+			},
+                        {
+				"model": "block/deepslate3",
+				"weight": 100
+			},
+			{
+				"model": "block/deepslate4",
+				"weight": 10
+			}
+    ]
+  }
+}

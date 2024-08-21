@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+    "parent": "item/waxed_cut_copper_stairs",
+	"textures": {
+		"3": "block/oxidized_cut_copper"
+	}
+}

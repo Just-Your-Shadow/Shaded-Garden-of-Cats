@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [{
+				"model": "block/netherrack",
+				"weight": 20000
+			},
+			{
+				"model": "block/netherrack2",
+				"weight": 100
+			},
+                        {
+				"model": "block/netherrack3",
+				"weight": 100
+			},
+			{
+				"model": "block/netherrack4",
+				"weight": 100
+			}
+    ]
+  }
+}

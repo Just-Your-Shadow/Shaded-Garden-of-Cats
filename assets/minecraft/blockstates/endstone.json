@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [{
+				"model": "block/endstone",
+				"weight": 5000
+			},
+			{
+				"model": "block/endstone2",
+				"weight": 150
+			},
+                        {
+				"model": "block/endstone3",
+				"weight": 125
+			},
+			{
+				"model": "block/endstone4",
+				"weight": 155
+			}
+    ]
+  }
+}

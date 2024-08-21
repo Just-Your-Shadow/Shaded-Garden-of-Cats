@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+    "parent": "item/waxed_copper_grate",
+	"textures": {
+		"particle": "block/oxidized_copper_grate"
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"textureSize": [64, 32],
+	"texture": "textures/entity/enchanting_table_book.png",
+	"models": [
+		{
+			"part": "cover_right",
+			"id": "cover_right",
+			"invertAxis": "xy",
+			"translate": [0, 11, 0],
+			"boxes": [
+				{
+					"coordinates": [-0.8, -16, -0.5, 6, 10, 1],
+					"uvNorth": [0, 0, 6, 10],
+					"uvEast": [11, 0, 12, 10],
+					"uvSouth": [6, 0, 12, 10],
+					"uvWest": [15, 0, 16, 10],
+					"uvUp": [6, 0, 12, 1],
+					"uvDown": [6, 0, 12, 1]
+				}
+			]
+		},
+		{
+			"part": "cover_left",
+			"id": "cover_left",
+			"invertAxis": "xy",
+			"translate": [6, 11, 0],
+			"boxes": [
+				{
+					"coordinates": [-11.2, -16, -0.5, 6, 10, 1],
+					"uvNorth": [16, 0, 22, 10],
+					"uvEast": [16, 0, 17, 10],
+					"uvSouth": [22, 0, 28, 10],
+					"uvWest": [0, 0, 1, 10],
+					"uvUp": [9, 0, 15, 1],
+					"uvDown": [9, 0, 15, 1]
+				}
+			]
+		},
+		{
+			"part": "book_spine",
+			"id": "book_spine",
+			"invertAxis": "xy",
+			"translate": [1, 11, -1],
+			"boxes": [
+				{
+					"coordinates": [-2, -16, 0, 2, 10, 1],
+					"uvNorth": [59, 11, 61, 21],
+					"uvEast": [60, 11, 61, 21],
+					"uvSouth": [61, 11, 63, 21],
+					"uvWest": [59, 11, 60, 21],
+					"uvUp": [3, 5, 5, 6],
+					"uvDown": [16, 5, 18, 6]
+				}
+			]
+		}
+	]
+}

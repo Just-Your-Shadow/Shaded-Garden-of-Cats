@@ -1,0 +1,12 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+    "parent": "item/waxed_copper_trapdoor",
+	"textures": {
+		"2": "block/weathered_copper_trapdoor_ends",
+		"3": "block/weathered_copper_bulb",
+		"4": "item/honeycomb",
+		"particle": "block/weathered_copper_trapdoor",
+		"front": "block/weathered_copper_trapdoor",
+		"side": "block/weathered_copper_door_ends"
+	}
+}

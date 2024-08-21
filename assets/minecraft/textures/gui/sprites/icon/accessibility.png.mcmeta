@@ -1,0 +1,14 @@
+{
+    "animation": {
+        "height": 15,
+		"frames": [
+	  { "index": 0, "time": 32 },
+      { "index": 1, "time": 1 },
+	  { "index": 0, "time": 128 },
+	  { "index": 1, "time": 1 },
+	  { "index": 0, "time": 4 },
+      { "index": 1, "time": 1 },
+	  { "index": 0, "time": 32 }
+        ]
+    }
+}

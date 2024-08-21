@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+    "parent": "item/waxed_copper_block",
+	"textures": {
+		"particle": "block/weathered_copper_bulb"
+	}
+}

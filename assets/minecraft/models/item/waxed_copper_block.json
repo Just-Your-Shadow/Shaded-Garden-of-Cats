@@ -1,0 +1,204 @@
+{
+	"credit": "Created by Mickey Joe Alpha - http://YouTube.com/@MushirMickeyJoe",
+	"parent": "block/block",
+	"textures": {
+		"0": "item/honeycomb",
+		"particle": "block/copper_block"
+	},
+	"elements": [
+		{
+			"name": "honeycomb_0",
+			"from": [4.75, 16, 0.5],
+			"to": [6.75, 17, 14.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [8, 0, 6, 1], "texture": "#0"},
+				"east": {"uv": [7, 0, 8, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6, 13, 8, 14], "texture": "#0"},
+				"west": {"uv": [6, 0, 7, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [6, 0, 8, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_1",
+			"from": [3.75, 16, 1.5],
+			"to": [4.75, 17, 14.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [6, 1, 5, 2], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [5, 13, 6, 14], "texture": "#0"},
+				"west": {"uv": [5, 1, 6, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [5, 1, 6, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_2",
+			"from": [6.75, 16, 1.5],
+			"to": [7.75, 17, 15.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [9, 1, 8, 2], "texture": "#0"},
+				"east": {"uv": [8, 1, 9, 15], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [8, 14, 9, 15], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [8, 1, 9, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_3",
+			"from": [2.75, 16, 2.5],
+			"to": [3.75, 17, 14.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [5, 2, 4, 3], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [4, 13, 5, 14], "texture": "#0"},
+				"west": {"uv": [4, 2, 5, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 2, 5, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_4",
+			"from": [7.75, 16, 2.5],
+			"to": [10.75, 17, 13.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [12, 2, 9, 3], "texture": "#0"},
+				"east": {"uv": [11, 2, 12, 13], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [9, 12, 12, 13], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [9, 2, 12, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_5",
+			"from": [1.75, 16, 3.5],
+			"to": [2.75, 17, 13.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [4, 3, 3, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [3, 12, 4, 13], "texture": "#0"},
+				"west": {"uv": [3, 3, 4, 13], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [3, 3, 4, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_6",
+			"from": [10.75, 16, 3.5],
+			"to": [11.75, 17, 12.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [13, 3, 12, 4], "texture": "#0"},
+				"east": {"uv": [12, 3, 13, 12], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [12, 11, 13, 12], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [12, 3, 13, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_7",
+			"from": [0.75, 16, 4.5],
+			"to": [1.75, 17, 9.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [3, 4, 2, 5], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [2, 8, 3, 9], "texture": "#0"},
+				"west": {"uv": [2, 4, 3, 9], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [2, 4, 3, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_8",
+			"from": [11.75, 16, 4.5],
+			"to": [12.75, 17, 7.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [14, 4, 13, 5], "texture": "#0"},
+				"east": {"uv": [13, 4, 14, 7], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [13, 6, 14, 7], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [13, 4, 14, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_9",
+			"from": [-0.25, 16, 5.5],
+			"to": [0.75, 17, 8.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [2, 5, 1, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [1, 7, 2, 8], "texture": "#0"},
+				"west": {"uv": [1, 5, 2, 8], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [1, 5, 2, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_10",
+			"from": [11.75, 16, 8.5],
+			"to": [12.75, 17, 11.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [14, 8, 13, 9], "texture": "#0"},
+				"east": {"uv": [13, 8, 14, 11], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [13, 10, 14, 11], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [13, 8, 14, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_11",
+			"from": [0.75, 16, 10.5],
+			"to": [1.75, 17, 12.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [3, 10, 2, 11], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [2, 11, 3, 12], "texture": "#0"},
+				"west": {"uv": [2, 10, 3, 12], "texture": "#0"},
+				"up": {"uv": [2, 10, 3, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_12",
+			"from": [7.75, 16, 13.5],
+			"to": [9.75, 17, 14.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"east": {"uv": [10, 13, 11, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [9, 13, 11, 14], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [9, 13, 11, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "honeycomb_13",
+			"from": [5.75, 16, 14.5],
+			"to": [6.75, 17, 15.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.5, 16.5, 10]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [7, 14, 8, 15], "texture": "#0"},
+				"west": {"uv": [7, 14, 8, 15], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7, 14, 8, 15], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#particle"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#particle"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#particle"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#particle"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#particle"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#particle"}
+			}
+		}
+	]
+}

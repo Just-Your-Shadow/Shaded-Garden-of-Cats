@@ -1,0 +1,29 @@
+{
+  "variants": {
+    "": [{
+				"model": "block/stone",
+				"weight": 5000
+			},
+			{
+				"model": "block/stone2",
+				"weight": 150
+			},
+                        {
+				"model": "block/stone3",
+				"weight": 125
+			},
+			{
+				"model": "block/stone4",
+				"weight": 155
+			},
+			{
+				"model": "block/stone5",
+				"weight": 100
+			},
+			{
+				"model": "block/stone6",
+				"weight": 50
+			}
+    ]
+  }
+}

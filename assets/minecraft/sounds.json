@@ -1,0 +1,135 @@
+{
+  "entity.villager.ambient": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/meow1",
+      "mob/cat/meow2",
+	  "mob/cat/meow3",
+	  "mob/cat/meow4"
+    ]
+  },
+  "entity.villager.death": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/hitt1",
+      "mob/cat/hitt2",
+	  "mob/cat/hitt3"
+    ]
+  },
+  "entity.villager.no": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/hiss1",
+      "mob/cat/hiss2",
+      "mob/cat/hiss3"
+    ]
+  },
+  "entity.villager.trade": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/purr1",
+      "mob/cat/purr2",
+	  "mob/cat/purr3"
+    ]
+  },
+  "entity.villager.yes": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/purreow1",
+      "mob/cat/purreow2",
+      "mob/cat/purreow3"
+    ]
+  },
+  "entity.villager.hurt": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/hitt1",
+      "mob/cat/hitt2",
+      "mob/cat/hitt3"
+    ]
+  },
+  "entity.zombie_villager.ambient": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/hiss1",
+      "mob/cat/hiss2",
+      "mob/cat/hiss3"
+    ]
+  },
+  "entity.zombie_villager.death": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/hitt1",
+      "mob/cat/hitt2",
+	  "mob/cat/hitt3"
+    ]
+  },
+  "entity.zombie_villager.hurt": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/hitt1",
+      "mob/cat/hitt2",
+	  "mob/cat/hitt3"
+    ]
+  },
+  "entity.wandering_trader.ambient": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/meow1",
+      "mob/cat/meow2",
+	  "mob/cat/meow3",
+	  "mob/cat/meow4"
+    ]
+  },
+  "entity.wandering_trader.death": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/hitt1",
+      "mob/cat/hitt2",
+	  "mob/cat/hitt3"
+    ]
+  },
+  "entity.wandering_trader.no": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/hiss1",
+      "mob/cat/hiss2",
+      "mob/cat/hiss3"
+    ]
+  },
+  "entity.wandering_trader.trade": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/purr1",
+      "mob/cat/purr2",
+      "mob/cat/purr3"
+    ]
+  },
+  "entity.wandering_trader.yes": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/purreow1",
+      "mob/cat/purreow2"
+    ]
+  },
+  "entity.wandering_trader.hurt": {
+    "replace": true,
+    "sounds": [
+      "mob/cat/hitt1",
+      "mob/cat/hitt2",
+	  "mob/cat/hitt3"
+    ]
+  },
+  "entity.wandering_trader.disappeared": {
+    "replace": true,
+    "sounds": [
+      "mob/endermen/portal2"
+    ]
+  },
+  "entity.wandering_trader.reappeared": {
+    "replace": true,
+    "sounds": [
+      "mob/endermen/portal"
+    ]
+  }
+}

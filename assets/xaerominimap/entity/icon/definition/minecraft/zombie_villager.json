@@ -1,0 +1,53 @@
+{
+    "variants" : {
+        "default" : "normal_sprite:zombie_villager.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%true%taiga%none%1" : "normal_sprite:zombie_baby.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%true%desert%none%1" : "normal_sprite:zombie_baby.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%true%snow%none%1" : "normal_sprite:zombie_baby.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%true%plains%none%1" : "normal_sprite:zombie_baby.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%true%savanna%none%1" : "normal_sprite:zombie_baby.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%true%jungle%none%1" : "normal_sprite:zombie_baby.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%true%swamp%none%1" : "normal_sprite:zombie_baby.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%taiga%librarian%1" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%desert%librarian%1" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%snow%librarian%1" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%plains%librarian%1" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%savanna%librarian%1" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%taiga%librarian%2" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%desert%librarian%2" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%snow%librarian%2" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%plains%librarian%2" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%savanna%librarian%2" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%taiga%librarian%3" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%desert%librarian%3" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%snow%librarian%3" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%plains%librarian%3" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%savanna%librarian%3" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%taiga%librarian%4" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%desert%librarian%4" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%snow%librarian%4" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%plains%librarian%4" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%savanna%librarian%4" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%taiga%librarian%5" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%desert%librarian%5" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%snow%librarian%5" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%plains%librarian%5" : "normal_sprite:zombie_librarian.png",
+        "minecraft:textures/entity/zombie_villager/zombie_villager.png%false%savanna%librarian%5" : "normal_sprite:zombie_librarian.png"
+    },
+    "modelConfigs" : [
+		{
+			"baseScale" : 1,
+			"rotationY" : 0,
+			"rotationX" : 0,
+			"rotationZ" : 0,
+			"offsetX" : 0,
+			"offsetY" : 0,
+			"modelMainPartFieldAliases" : [
+				"entity.zombie_villager.name;head"
+			],
+			"renderingFullModel" : false,
+			"modelPartsRotationReset" : false,
+			"layersAllowed" : true
+		}
+	]
+}
