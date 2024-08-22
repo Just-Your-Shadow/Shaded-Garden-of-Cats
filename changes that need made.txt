@@ -1,0 +1,3 @@
+
+Edit ore, block blending in nether,
+Add deeplate gold dia emerald block/ore glint, mud and myclium overlay
