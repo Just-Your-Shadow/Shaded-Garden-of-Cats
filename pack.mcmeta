@@ -1,8 +1,14 @@
 {
     "pack": {
-        "description": " §f• §dFor Private Use <3",
+        "description": " §f• For Private Use <3",
         "pack_format": 34
-    }
-      
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 46, "max_inclusive": 55},
+				"directory": "overlay_46"
+			}
+		]
       }
 }

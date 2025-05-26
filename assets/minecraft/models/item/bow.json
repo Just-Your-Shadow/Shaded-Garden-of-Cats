@@ -97,7 +97,7 @@
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.85,
+                "damage": 0.3,
                 "pulling": 0
             },
             "model": "item/bow/bow_02"
@@ -105,21 +105,31 @@
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.9
+                "damage": 0.6,
+                "pulling": 0
             },
             "model": "item/bow/bow_03"
         },
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.95
+                "damage": 0.9,
+                "pulling": 0
             },
             "model": "item/bow/bow_04"
+        },
+		{
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.99,
+                "pulling": 0
+            },
+            "model": "item/bow/bow_05"
         },
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.85,
+                "damage": 0.30,
                 "pulling": 1
             },
             "model": "item/bow_pulling_0/bow_pulling_0_02"
@@ -127,7 +137,7 @@
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.85,
+                "damage": 0.30,
                 "pulling": 1,
                 "pull": 0.65
             },
@@ -136,7 +146,7 @@
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.85,
+                "damage": 0.30,
                 "pulling": 1,
                 "pull": 0.9
             },
@@ -145,7 +155,7 @@
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.9,
+                "damage": 0.60,
                 "pulling": 1
             },
             "model": "item/bow_pulling_0/bow_pulling_0_03"
@@ -153,7 +163,7 @@
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.9,
+                "damage": 0.60,
                 "pulling": 1,
                 "pull": 0.65
             },
@@ -162,7 +172,7 @@
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.9,
+                "damage": 0.60,
                 "pulling": 1,
                 "pull": 0.9
             },
@@ -171,7 +181,7 @@
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.95,
+                "damage": 0.90,
                 "pulling": 1
             },
             "model": "item/bow_pulling_0/bow_pulling_0_04"
@@ -179,7 +189,7 @@
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.95,
+                "damage": 0.90,
                 "pulling": 1,
                 "pull": 0.65
             },
@@ -188,11 +198,37 @@
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.95,
+                "damage": 0.90,
                 "pulling": 1,
                 "pull": 0.9
             },
             "model": "item/bow_pulling_2/bow_pulling_2_04"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.99,
+                "pulling": 1
+            },
+            "model": "item/bow_pulling_0/bow_pulling_0_05"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.99,
+                "pulling": 1,
+                "pull": 0.65
+            },
+            "model": "item/bow_pulling_1/bow_pulling_1_05"
+        },
+        {
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.99,
+                "pulling": 1,
+                "pull": 0.9
+            },
+            "model": "item/bow_pulling_2/bow_pulling_2_05"
         }
     ]
 }

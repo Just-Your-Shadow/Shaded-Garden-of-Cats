@@ -7,23 +7,30 @@
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.85
+                "damage": 0.3
             },
             "model": "item/bow_pulling_1/bow_pulling_1_02"
         },
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.9
+                "damage": 0.6
             },
             "model": "item/bow_pulling_1/bow_pulling_1_03"
         },
         {
             "predicate": {
                 "damaged": 1,
-                "damage": 0.95
+                "damage": 0.9
             },
             "model": "item/bow_pulling_1/bow_pulling_1_04"
+        },
+		{
+            "predicate": {
+                "damaged": 1,
+                "damage": 0.99
+            },
+            "model": "item/bow_pulling_1/bow_pulling_1_05"
         }
     ]
 }
