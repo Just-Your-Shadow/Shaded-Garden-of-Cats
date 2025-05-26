@@ -2,7 +2,7 @@
   "variants": {
     "": [{
 				"model": "block/netherrack",
-				"weight": 20000
+				"weight": 200000
 			},
 			{
 				"model": "block/netherrack2",

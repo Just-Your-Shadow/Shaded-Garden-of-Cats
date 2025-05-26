@@ -2,7 +2,7 @@
   "variants": {
     "": [{
 				"model": "block/stone",
-				"weight": 5000
+				"weight": 500000
 			},
 			{
 				"model": "block/stone2",

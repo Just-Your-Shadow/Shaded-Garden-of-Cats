@@ -2,7 +2,7 @@
   "variants": {
     "": [{
 				"model": "block/deepslate",
-				"weight": 2000
+				"weight": 200000
 			},
 			{
 				"model": "block/deepslate2",
