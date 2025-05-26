@@ -50,7 +50,7 @@ void main() {
         // jump_bar_progress
         (UV0.x >= 546.0 / 1024.0 && UV0.x <= (546.0 + 182.0) / 1024.0 &&
          UV0.y >= 597.0 / 1024.0 && UV0.y <= (597.0 + 5.0) / 1024.0);
-
+    
     // Step 1: move XP/jump bar elements
     if (isXPElement) {
         finalPos.y += 1.9;
